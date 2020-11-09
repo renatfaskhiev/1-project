@@ -357,7 +357,7 @@
   margin-right: 10px;
 }
 
-nav a {
+.footer__link {
   text-decoration: none;
   color: white;
   width: 16px;
