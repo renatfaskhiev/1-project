@@ -3,4 +3,5 @@
     color: white;
     position: relative;
     overflow: hidden;
+    z-index: -2;
 }
